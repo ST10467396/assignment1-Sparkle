@@ -34,4 +34,6 @@ After thorough consideration, I have debated between Wave and Sparkle. Ultimatel
 ### Wireframes
 Access here: https://www.figma.com/design/qqDj4SXa5HI2D59OwATc3Y/Sparkle?node-id=0-1&t=rH4U6MZpVU5oOl5C-1
 ## Notes
+During the creation of the assignment, Android Studio and GitHub gave me many errors. It was not possible to fix my project so i had to move it to a new Github repository on 31/03/2026 to remove the errors. Provided is the link to my original Github repository as many of my commits are now stored there. 
+Access old Github repository: 
 ## Refrences
